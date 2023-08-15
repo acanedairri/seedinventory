@@ -1,0 +1,11 @@
+repository : https://github.com/acanedairri/seedinventory.git
+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
+step
+1. git init - in the project location
+2. git add . README.md
+3. git commit -m "first commit"
+4. git branch -M main -- if skip it will create a master branch
+5. git remote add origin https://github.com/acanedairri/seedinventory.git
+6. git remote set-url origin https://acanedairri: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@github.com/acanedairri/seedinventory.git
+7. git push --set-upstream origin master
+7. git push

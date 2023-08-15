@@ -12,27 +12,27 @@ val customTypography = Typography(
         fontSize = 36.sp,
         lineHeight = 24.sp,
         letterSpacing = 0.5.sp,
-        color = Color.White
+        color = Color.Black
     ),
     titleMedium = TextStyle(
         fontWeight = FontWeight.Bold,
         fontSize = 24.sp,
         lineHeight = 24.sp,
         letterSpacing = 0.5.sp,
-        color = Color.White
+        color = Color.Black
     ),
     bodyMedium = TextStyle(
         fontWeight = FontWeight.Normal,
         fontSize = 18.sp,
         lineHeight = 24.sp,
         letterSpacing = 0.5.sp,
-        color = Color.White
+        color = Color.Black
     ),
     labelMedium = TextStyle(
         fontWeight = FontWeight.Bold,
         fontSize = 18.sp,
         lineHeight = 24.sp,
         letterSpacing = 0.5.sp,
-        color = Color.White
+        color = Color.Black
     ),
 )
